@@ -1,2 +1,0 @@
-level3_file.txt
-Initial: Nov12, 2023, 22:21
