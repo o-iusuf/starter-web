@@ -4,7 +4,7 @@ This repository is for showing how Git and GitHub work.
 
 ## Introduction
 
-Simple project to practice Git commands and options, as well as Github.
+Simple project to practice Git commands and options, as well as GitHub.
 
 ## Purpose
 
