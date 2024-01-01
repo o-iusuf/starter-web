@@ -3,3 +3,5 @@ It is not about bits, bytes and protocols, but profits, losses and margins. (Lou
 In software, we rarely have meaningful requirements. Even if we do, the only measure of success that matters is whether our solution solves the customer’s shifting idea of what their problem is. (Jeff Atwood) The only people who have anything to fear from free software are those whose products are worth even less. (David Emery) Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are–by definition–not smart enough to debug it. (Brian Kernighan) Writing code has a place in the human hierarchy worth somewhere above grave robbing and beneath managing. (Gerald Weinberg)
 
 Measuring programming progress by lines of code is like measuring aircraft building progress by weight. (Bill Gates)
+
+The most amazing achievement of the computer software industry is its continuing cancellation of the steady and staggering gains made by the computer hardware industry. (Henry Petroski)
