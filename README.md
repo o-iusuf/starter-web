@@ -12,7 +12,7 @@ Sample website with plenty of files for demos.
 
 ## Deployment
 
-On any Web server. 
+On any Web server, as well on local.
 
 ## How to contribute
 
