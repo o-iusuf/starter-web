@@ -15,3 +15,5 @@ Sample website with plenty of files for demos.
 On any Web server. 
 
 ## How to contribute
+
+Please fork.
